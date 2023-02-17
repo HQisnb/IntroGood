@@ -1,8 +1,8 @@
 {
-  "name": "James Smith",
-  "address": "New York",
-  "bio": "I'm creative designer based in New York, and I'm very passionate and dedicated to my work.",
-  "mainSkill": "Creative Designer",
+  "name": "Haoqi Zhang",
+  "address": "Waterloo",
+  "bio": "I'm SDE based in Waterloo, Canada, and I'm very passionate and dedicated to my work.",
+  "mainSkill": "Software Developer/Engineer",
   "img": "/img/slider/avatar.png",
   "skills": [
     {
@@ -31,8 +31,8 @@
     { "name": "behance", "icon": "icon-behance", "url": "#" }
   ],
   "contact": {
-    "address": "20, Somewhere in world",
-    "email": "hello@dizme.com",
-    "phn": "+123 456 7890"
+    "address": "23 Academy Crescent, Waterloo, ON, Canada",
+    "email": "zhang001221@gmail.com",
+    "phn": "+416 428 1852"
   }
 }

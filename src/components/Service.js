@@ -38,8 +38,7 @@ const Service = ({ dark }) => {
             <span>Services</span>
             <h3>What I Do for Clients</h3>
             <p>
-              Most common methods for designing websites that work well on
-              desktop is responsive and adaptive design
+              Web Develop/Design, Software Development, Data Science
             </p>
           </div>
           <div className="service_list">
@@ -76,7 +75,7 @@ const Service = ({ dark }) => {
                           <div className="title">
                             <h3>{data.title}</h3>
                             <span className="price">
-                              Starts from <span>${data.price}</span>
+                              Starts from <span>Year {data.price}</span>
                             </span>
                           </div>
                           <div className="text">

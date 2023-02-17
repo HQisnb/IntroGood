@@ -11,7 +11,7 @@ const About = ({ dark }) => {
                 <div className="numbers year">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={18} />
+                      <Counter end={4} />
                     </h3>
                     <span className="name">
                       Years of
@@ -23,7 +23,7 @@ const About = ({ dark }) => {
                 <div className="numbers project">
                   <div className="wrapper">
                     <h3>
-                      <Counter end={9} />K
+                      <Counter end={12} />
                     </h3>
                     <span className="name">
                       Total
@@ -36,17 +36,12 @@ const About = ({ dark }) => {
             </div>
             <div className="right">
               <div className="title wow fadeInUp" data-wow-duration="1s">
-                <span>{`I'm a Designer`}</span>
-                <h3>I Can Design Anything You Want</h3>
+                <span>{`I'm a graduated CS/DS student`}</span>
+                <h3>From University of Waterloo</h3>
               </div>
               <div className="text wow fadeInUp" data-wow-duration="1s">
                 <p>
-                  {`Hello there! I'm a web designer, and I'm very passionate and
-                  dedicated to my work. With 20 years experience as a
-                  professional web developer, I have acquired the skills and
-                  knowledge necessary to make your project a success. I enjoy
-                  every step of the design process, from discussion and
-                  collaboration.`}
+                  {`Hello there! I'm a SDE/Data Scientist, and I'm very passionate and dedicated to my work. With 4 years experience as a CS/DS student in University of Waterloo, I have acquired the skills and knowledge necessary to make your project a success. I enjoy every step of my work, from discussion and collaboration.`}
                 </p>
               </div>
               <div
